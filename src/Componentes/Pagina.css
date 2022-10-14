@@ -1,0 +1,47 @@
+
+
+#terapia{
+    background-image: url(pagina.jpg);
+    width: 1250px;
+    height: 700px;
+
+}
+
+.contenedor{
+   padding-top: 200px;
+   padding-left: 500px;
+   
+}
+
+.links{
+    margin:2rem;
+}
+
+#instagram{
+    width: 30px;
+    margin-right: 10px;
+}
+
+#facebook{
+    width: 30px;
+    margin-right: 10px;
+}
+
+#youtube{
+    width: 50px;
+   
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.links:hover{
+    color:blueviolet;
+    transform: scale(1.1);
+}
+
+.you{
+    padding-left: 490px;
+}
